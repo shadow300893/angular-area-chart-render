@@ -1,0 +1,45 @@
+/* 
+Custom CSS
+*/
+
+/* Global Styles */
+
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Page Sections */
+.section,
+.section-colored {
+    padding: 50px 0;
+}
+
+.section-colored {
+    background-color: #e1e1e1;
+}
+
+/* Home Page Styles */
+.btn-align {
+    float: left;
+    margin-top: 23px
+}
+
+.response-style {
+    color: blue;
+    font-weight: bold;
+}
+
+/* 404 Page Styles */
+.error-404 {
+    font-size: 8em;
+}
+
+/* Footer Styles */
+footer {
+    margin: 50px 0;
+}
